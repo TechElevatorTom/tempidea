@@ -15,7 +15,7 @@
 			<tr>
 				<th>Title</th>
 				<th>Artist</th>
-				<th>Collection</th>
+				<th>COLLECTION</th>
 			</tr>
 			
 			<c:forEach var="song" items="${songs}">
